@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_229152_shiva_hpe.access_user_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>access_user_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 12:31:03</sys_created_on>
+        <sys_id>f8c342a64f021300a8a8ff6f9310c7c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_229152_shiva_hpe.access_user_user</sys_name>
+        <sys_package display_value="Shiva-HPE-Onesphere" source="x_229152_shiva_hpe">5771c6264f021300a8a8ff6f9310c7bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shiva-HPE-Onesphere">5771c6264f021300a8a8ff6f9310c7bb</sys_scope>
+        <sys_update_name>sys_user_role_f8c342a64f021300a8a8ff6f9310c7c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 12:31:03</sys_updated_on>
+    </sys_user_role>
+</record_update>

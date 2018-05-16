@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Access_User" max_length="40" name="x_229152_shiva_hpe_access_user" type="collection">
+        <element label="Name" max_length="50" name="name" type="string"/>
+        <element display="true" label="Role" max_length="4000" name="role" type="glide_list"/>
+    </element>
+</database>
